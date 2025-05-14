@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+.lottocards{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+    margin-top: 60px;
+}
